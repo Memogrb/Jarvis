@@ -3,4 +3,4 @@ uvicorn
 google-genai
 duckduckgo-search
 pydantic
-pip install supabase
+supabase

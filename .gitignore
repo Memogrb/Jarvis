@@ -1,5 +1,7 @@
+venv/
+__pycache__/
 .env
 *.db
-*.sqlite3
-__pycache__/
-*.pyc
+*.db-journal
+prueba_system.txt
+
